@@ -18,9 +18,6 @@ Backend-focused Computer Science graduate who builds scalable REST APIs and data
 - 🎓 B.Sc. (Hons.) Computer Science, University of Delhi (2026)
 - 🔭 Focused on scalable REST APIs, async backends, and database-driven applications
 - 🛠️ Comfortable across the full backend stack: auth, payments, background jobs, and deployment
-- 🌱 Recently completed a **Django Masterclass** (Udemy, Aug 2026)
-- 💼 Web & Digital Operations Intern at OVB Machine Tools (Feb–Mar 2026)
-- ⚡ Fun fact: every project below is deployed live, not just sitting in a repo
 
 ---
 
