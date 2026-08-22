@@ -8,7 +8,6 @@ Backend-focused Computer Science graduate who builds scalable REST APIs and data
 
 [![Portfolio](https://img.shields.io/badge/GitHub-Inder0-181717?style=flat&logo=github)](https://github.com/Inder0)
 [![Email](https://img.shields.io/badge/Email-inderpreet.singh0511%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inderpreet.singh0511@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-8178100792-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:8178100792)
 
 </div>
 
@@ -65,40 +64,6 @@ Backend-focused Computer Science graduate who builds scalable REST APIs and data
 
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/-HTTPX-000000?style=flat-square)
-
----
-
-### 🔥 Featured Projects
-
-#### 🛒 [Multi-Vendor Marketplace](https://github.com/Inder0/Marketplace)
-`Django` `DRF` `PostgreSQL` `Razorpay` `Redis`
-Full-stack marketplace with custom Google OAuth login, seller profiles, product listings, and a four-step Razorpay-powered checkout. Includes a DRF-based REST API with custom permission classes and a JWT-secured seller analytics dashboard (revenue trends, order counts, top-selling products).
-🔗 [Live Demo](https://marketplace-bu5n.onrender.com/)
-
-#### ✍️ [DraftLine – Blogging Platform](https://github.com/Inder0/DraftLine)
-`FastAPI` `SQLAlchemy 2` `PostgreSQL` `Redis` `AWS` `JWT` `Docker`
-Async full-stack blogging platform combining a REST API with server-rendered Jinja2/HTMX pages. Features custom draft/publish workflows, ownership-based authorization, JWT auth, AWS-backed image storage, Redis rate limiting, Alembic migrations, and a full pytest/HTTPX/Moto test suite.
-
-#### 🔗 [Linkly – URL Shortener API](https://github.com/Inder0/url-shortener)
-`FastAPI` `PostgreSQL` `Redis` `SQLAlchemy` `Docker`
-API-first URL shortening service with custom aliases, link expiration, click tracking, and Redis-cached redirects. Fully containerized with an automated async pytest API test suite.
-🔗 [Live Demo](https://linkly-shortener.onrender.com/)
-
-#### 💬 [ChatApp – Real-Time Chat](https://github.com/Inder0/ChatApp)
-`Django` `Django Channels` `WebSockets` `Redis` `HTMX`
-Real-time chat app supporting private chats, group chats, and password-protected rooms via Django Channels and WebSockets. Includes Google OAuth login, online-user tracking, and Daphne (ASGI) deployment with PostgreSQL.
-🔗 [Live Demo](https://chatapp-4wek.onrender.com/)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Inderpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inder0&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inder0&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
